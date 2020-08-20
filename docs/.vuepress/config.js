@@ -1,6 +1,5 @@
 module.exports = {
     themeConfig: {
-        sidebar: 'auto',
         smoothScroll: true,
         locales: {
             '/': {
@@ -27,27 +26,27 @@ module.exports = {
                                 'v2rayn',
                             ],
                         },
-                        {
-                            title: 'v2rayNG',
-                            collapsable: false,
-                            children: [
-                                'v2rayng',
-                            ],
-                        },
-                        {
-                            title: 'Qv2ray',
-                            collapsable: false,
-                            children: [
-                                'qv2ray',
-                            ],
-                        },
-                        {
-                            title: 'Kitsunebi',
-                            collapsable: false,
-                            children: [
-                                'kitsunebi',
-                            ],
-                        },
+                        // {
+                        //     title: 'v2rayNG',
+                        //     collapsable: false,
+                        //     children: [
+                        //         'v2rayng',
+                        //     ],
+                        // },
+                        // {
+                        //     title: 'Qv2ray',
+                        //     collapsable: false,
+                        //     children: [
+                        //         'qv2ray',
+                        //     ],
+                        // },
+                        // {
+                        //     title: 'Kitsunebi',
+                        //     collapsable: false,
+                        //     children: [
+                        //         'kitsunebi',
+                        //     ],
+                        // },
                         {
                             title: 'Netch',
                             collapsable: false,
@@ -86,27 +85,27 @@ module.exports = {
                                 'v2rayn',
                             ],
                         },
-                        {
-                            title: 'v2rayNG',
-                            collapsable: false,
-                            children: [
-                                'v2rayng',
-                            ],
-                        },
-                        {
-                            title: 'Qv2ray',
-                            collapsable: false,
-                            children: [
-                                'qv2ray',
-                            ],
-                        },
-                        {
-                            title: 'Kitsunebi',
-                            collapsable: false,
-                            children: [
-                                'kitsunebi',
-                            ],
-                        },
+                        // {
+                        //     title: 'v2rayNG',
+                        //     collapsable: false,
+                        //     children: [
+                        //         'v2rayng',
+                        //     ],
+                        // },
+                        // {
+                        //     title: 'Qv2ray',
+                        //     collapsable: false,
+                        //     children: [
+                        //         'qv2ray',
+                        //     ],
+                        // },
+                        // {
+                        //     title: 'Kitsunebi',
+                        //     collapsable: false,
+                        //     children: [
+                        //         'kitsunebi',
+                        //     ],
+                        // },
                         {
                             title: 'Netch',
                             collapsable: false,
