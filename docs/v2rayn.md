@@ -2,14 +2,14 @@
 
 ## Download v2rayN
 
-1.Goto [https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases) and download the newest app package which has been named by v2ranyN-Core.zip.
+1.Go to [https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases) and download the newest app package named by `v2ranyN-Core.zip`.
 
 2.Unzip the downloaded compressed package to any directory, double-click to open v2rayN.exe in the directory, and start running the software.
 
 ## Change language
 
-The default language of the app is Chinese, you can change the language in the `帮助` item of the menu bar.
-Once you click the `Language-[Englash]` item, you will need to close and restart the app to take effect.
+The app's default language is Chinese. You can change the language in the `帮助` item of the menu bar.
+Once you click the `Language-[Englash]` item, you have to close and restart the app to take effect.
 
 >Close the app‘s windows may only minimize the app.You can right-clicking the application icon in the status bar and click the `Exit` button.
 
@@ -19,7 +19,7 @@ Once you click the `Language-[Englash]` item, you will need to close and restart
 
 **Before starting, please make sure that you already have a V2ray server.**
 
-First copy the sharing link to the clipboard on your PC. Then open the v2rayN application and click `Import bulk URL from Clipboard` in the menu bar. After the import is successful, you will see the imported node information on the main interface of the application；
+First copy the sharing link to the clipboard on your PC. Then open the v2rayN application and click `Import bulk URL from Clipboard` in the menu bar. After importing successfully, you will see the imported node information on the main interface of the application；
 
 ![Import URL](/v2rayn_step_1.PNG)
 
@@ -33,7 +33,7 @@ First copy the sharing link to the clipboard on your PC. Then open the v2rayN ap
 
 ![Enter the settings page](/v2rayn_step_3.PNG)
 
-2.In the settings page you first enter the `Core: basic settings` page, where you will be able to set up your proxy mode, local proxy listening port and other functions. Please set up your v2rayN app as shown in the figure below。**You should pay attention to the `Http Proxy` setting. If you do not set this item correctly, it may cause your PC apps to fail to use the v2ray proxy service**；
+2.In the setting page you first enter the `Core: basic settings` page, where you will be able to set up your proxy mode and local proxy listening port. Please set up your v2rayN app as shown in the figure below.**You should pay attention to the `Http Proxy` setting. If you do not set this item correctly, it may cause your PC apps to fail to use the v2ray proxy service**；
 
 ![Core: basic settings](/v2rayn_step_4.PNG)
 
