@@ -2,9 +2,9 @@
 
 ## 下载安装v2rayN
 
-1.前往[https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases)下载最新release版应用压缩包，注意要下载`v2ranyN-Core.zip`，不要下载`v2rayN.zip`，否则将由于缺少v2ray-core核心组件而无法运行。
+1.前往[https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases)下载最新Release版应用压缩包，注意要下载`v2ranyN-Core.zip`，不要下载`v2rayN.zip`，否则将由于缺少v2ray-core核心组件而无法运行。
 
-2.将下载下来的压缩包解压到任意目录，双击打开目录里的v2rayN.exe，开始运行软件。
+2.将下载下来的压缩包解压到任意目录，双击打开目录里的`v2rayN.exe`，开始运行软件。
 
 ## 通过配置链接添加节点
 
